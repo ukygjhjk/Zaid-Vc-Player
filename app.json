@@ -1,6 +1,6 @@
 {
-    "name": "Zaid Music Bot",
-    "logo": "https://telegra.ph/file/95e785dea2717adf59de6.png",
+    "name": "Venom Music Bot",
+    "logo": "https://telegra.ph/file/32b95523e90400f420be0.png",
     "description": "Zaid music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/Itsunknown-12/Zaid-Vc-Player",
@@ -37,22 +37,22 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "Zaid_Music_Bot"
+            "value": "V3NOM_Music_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "Zaid_Assistant"
+            "value": "V3NOM_Assistant"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/abda83eda086dc5b187c3.png"
+            "value": "https://telegra.ph/file/4023d246a97d7490c7a7e.png"
         },
         "OWNER_NAME": {
             "description": "fill with your username without @",
             "required": false,
-            "value": "Timesisnotwaiting"
+            "value": "VENOMxCRAZY"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -74,12 +74,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "Superior_Bots"
+            "value": "V3N0M_0P"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "Superior_support"
+            "value": "V3NOM_support"
         }
     },
     "buildpacks": [
