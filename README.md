@@ -2,7 +2,7 @@
 
 ### VENOM ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Zaid_Team1"><img src="https://telegra.ph/file/22bedd4599a3beb22eed0.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/Zaid_Team1"><img src="https://telegra.ph/file/ec5afb80496c4be1bcf43.png" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -81,4 +81,4 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/Superior_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superior_bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/team_shield_x"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/aman_jha_official"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
